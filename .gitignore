@@ -1,0 +1,5 @@
+scripts/__pycache__/
+tmp_downloads/*.*
+archivid.db
+collages/
+scripts/test_pictures/
