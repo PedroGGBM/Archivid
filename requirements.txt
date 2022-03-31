@@ -1,0 +1,8 @@
+nltk
+bs4
+python-dotenv
+pyunsplash
+numpy==1.19.4
+opencv-python==4.5.2.52
+pillow
+selenium

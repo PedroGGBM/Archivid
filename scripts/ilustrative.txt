@@ -1,0 +1,41 @@
+1 ce
+2 sqco
+3 sqco + ce
+4 sqco + sqco
+5 sqco + sqco + ce
+6 (sqco + ce) + (sqco + ce)
+7 (sqco + ce) + (sqco + ce) + ce
+8 (sqco + sqco) + (sqco + sqco) + (sqco + sqco) + (sqco + sqco)
+
+/*
+
+create table users (
+    id varchar(100),
+    user_name varchar(100),
+    email varchar(50),
+    hashed_pwd varchar(100),
+    salt varchar(100)
+);
+
+create table studio_gronda_proj (
+    id varchar(100),
+    property_type varchar(100),
+    location varchar(50),
+    image_str varchar(10000000000)
+);
+
+create table studio_talent (
+    id varchar(100),
+    property_type varchar(100),
+    location varchar(50),
+    image_str varchar(10000000000)
+);
+
+create table studio_client (
+    id varchar(100),
+    property_type varchar(100),
+    location varchar(50),
+    image_str varchar(10000000000)
+);
+
+*/
